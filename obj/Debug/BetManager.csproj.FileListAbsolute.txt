@@ -1,0 +1,10 @@
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\BetManager.csprojAssemblyReference.cache
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\BetManager.Form1.resources
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\OddsManager.Properties.Resources.resources
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\BetManager.csproj.GenerateResource.cache
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\BetManager.csproj.CoreCompileInputs.cache
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\OddsManager.exe
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\obj\Debug\OddsManager.pdb
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\bin\Debug\OddsManager.exe.config
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\bin\Debug\OddsManager.exe
+C:\Users\cs17040\Documents\VisualStudio\OddsManager\OddsManager\OddsManager\bin\Debug\OddsManager.pdb
